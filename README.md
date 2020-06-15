@@ -10,3 +10,5 @@ This is a repository for a local positioning project.
 
 <li> Arduino IDE </li>
 
+</ul>
+
