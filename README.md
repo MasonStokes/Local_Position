@@ -44,3 +44,5 @@ Forest density with signal speed drop off to determine number of tree. Using bot
 <li> Does the Tree Diameter cause differences? </li>
 <li> Compare GPS distance with Ultra Wide Band Signal Distancing, Should be the same (if not similar) outputs. </li>
 </ul>
+
+<p> Ultra wideband uses time of flight or return time of flight, the signal will travel from A to B at a specific rate of speed. The module calculates the distance based on the time it takes for the signal to travel. <\p>
